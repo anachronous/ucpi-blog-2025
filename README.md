@@ -9,6 +9,7 @@ The blog post is different from writing a summary of a research paper, or writin
 
 - https://cacm.acm.org/blogcacm/the-evolution-of-user-interface-design/
 - https://cacm.acm.org/research/end-user-software-engineering/
+- Last year's post: https://peachlab.gitbook.io/seminar-on-user-centered-programming-interfaces-2024/topics/w4-structure-editors
 
 ## Is there a template or structure?
 There is no template or structure. Length-wise, please keep your blog post around 800~1200 words. However, we do ask you to provide your name, and a short bio to be included on the final course website.
