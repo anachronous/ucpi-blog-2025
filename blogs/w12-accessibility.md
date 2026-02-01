@@ -57,4 +57,4 @@ Siu, A. F., Kim, S., Miele, J. A., & Follmer, S. (2019). shapeCAD: An accessible
 ---
 
 # About the author
-I'm Jan Blum, a CS student at ETH Zurich. If i'm not studying, i'm usually found playing card games or Pathfinder.
+I'm Jan Blum, a hard of hearing CS student at ETH Zurich. If i'm not studying, i'm usually found playing card games or Pathfinder.
